@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://htmlcssviewer.github.io/sitemap.xml
